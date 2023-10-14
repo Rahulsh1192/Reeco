@@ -1,0 +1,33 @@
+@import "../../index.css";
+.mein__header{
+    background-image: url("../../img/icons/Top bar 1 (2).svg");
+    /* background-color: #1518bf !important; */
+    background-color:var(--clr-default-3) !important;
+
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    /* padding: 5px 0px; */
+    margin-bottom: 5px;
+}
+/* .logo__bg{} */
+
+.header hr {
+    border-color: #ffffff91;
+    border-width: 2px;
+    border-radius: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.openNav svg {
+    fill: #2A3478;
+}
+.toggle__btn svg{
+    fill: #2A3478;
+}
+.logo img{
+    height: 53px;
+}
